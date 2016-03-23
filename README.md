@@ -1,3 +1,4 @@
+![alt text](https://www.playframework.com/assets/images/logos/play_full_color.png "Play Framework")
 Play application with an Angular frontend.
 
 -------------------------------------------
