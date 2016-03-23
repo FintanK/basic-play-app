@@ -29,3 +29,9 @@ Access
 
 Backend API : http://localhost:9000
 Frontend: http://localhost:3333
+
+Useful Links
+-----------
+
+Offical Documentation - How to work with the Play Framework
+https://www.playframework.com/documentation/2.5.x/JavaHome
